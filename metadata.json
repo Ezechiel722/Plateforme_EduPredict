@@ -1,0 +1,6 @@
+{
+  "name": "EduPredict - Pilotage de la Réussite Étudiante",
+  "description": "Plateforme institutionnelle d'aide à la décision IA et d'évaluation prédictive du risque de décrochage étudiant pour ESGIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
